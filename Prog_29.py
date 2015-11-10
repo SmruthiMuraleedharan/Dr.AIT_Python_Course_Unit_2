@@ -1,6 +1,6 @@
 __author__ = 'Dr.S.Gowrishankar'
 
-#count the occurence of each of the word in the file and print the top 10 words and their occurence
+#count the occurrence of each of the word in the file and print the top 10 words and their occurence
 
 fhand = open('mbox.txt')
 counts = dict()
