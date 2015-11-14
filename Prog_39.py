@@ -10,5 +10,5 @@ while(num != 0):
     result = result + rem
     num = num /10
 
-print 'The sum of all digits is {0}'.format(result)
+print 'The sum of all digits is {}'.format(result)
 
